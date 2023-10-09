@@ -77,7 +77,7 @@ And use the following connection details:
 - **Login:** `attendeeXX` (where XX corresponds to the number that was assigned to you)
 - **Password:** `attendeeXX` (same as login)
 
-![Neo4j Browser Connection Screen](/image/connectionScreen.png)
+![Neo4j Browser Connection Screen](https://github.com/guerinjeanmarc/graph-day-bangalore/blob/main/images/connectionScreen.png?raw=true)
 
 We already preloaded the data for you.
 

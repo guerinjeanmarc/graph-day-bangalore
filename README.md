@@ -70,7 +70,8 @@ POIs have the following properties:
 ## Connecting to the demo environment
 
 We created a temporary instance dedicated for the BT Graph Day Bangalore.
-Access is through https://browser.neo4j.io
+
+**Access is through https://browser.neo4j.io**
 
 And use the following connection details:
 - **Connect url**: `neo4j+s://neo4j-bt.graphdatabase.ninja:443`
@@ -95,7 +96,11 @@ If you want to replay the workshop later, you will need to build your own demo e
 
 ## Check your data model
 
-You can check your data model by running the command `CALL apoc.meta.subGraph({labels:['OperationalPoint', 'OperationalPointName', 'POI']})` in your Browser query window. It should look like the following (maybe yours is a bit more mixed up):
+You can check your data model by running the command 
+```cypher
+CALL apoc.meta.subGraph({labels:['OperationalPoint', 'OperationalPointName', 'POI']})
+```
+in your Browser query window. It should look like the following (maybe yours is a bit more mixed up):
 
 <img width="800" alt="Data Model - Digital Twin" src="https://raw.githubusercontent.com/cskardon/gsummit2023/main/images/Model.svg">
 

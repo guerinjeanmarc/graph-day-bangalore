@@ -77,7 +77,7 @@ And use the following connection details:
 - **Login:** `attendeeXX` (where XX corresponds to the number that was assigned to you)
 - **Password:** `attendeeXX` (same as login)
 
-To know your login/password, [go to this spreadsheet](https://docs.google.com/spreadsheets/d/1lLry3ZhRbhUUY5ghBHr971Jvxw46xyB8tlmQQubIjTA/edit?usp=sharing) and follow instructions
+### To know your login/password, [go to this spreadsheet](https://docs.google.com/spreadsheets/d/1lLry3ZhRbhUUY5ghBHr971Jvxw46xyB8tlmQQubIjTA/edit?usp=sharing) and follow instructions
 
 ![Neo4j Browser Connection Screen](https://github.com/guerinjeanmarc/graph-day-bangalore/blob/main/images/connectionScreen.png?raw=true)
 
